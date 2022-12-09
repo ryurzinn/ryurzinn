@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ryurzinn/ryurzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¿What do you do?
+I am currently dedicated to studying programming and cybersecurity on my own, in a self-taught way.
 
-Here are some ideas to get you started:
+### ¿What languages do you know how to handle?
+Currently I manage in languages such as:
+• JavaScript
+• Python
+• Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see some of my projects in the repositories of my profile :)
+
+
