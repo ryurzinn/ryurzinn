@@ -9,7 +9,7 @@ I am currently dedicated to studying programming and cybersecurity on my own, in
 💻Currently I manage in languages such as:
 • JavaScript
 • Python
-• Flutter📲
+• Dart📲
 
 You can see some of my projects in the repositories of my profile :)
 
